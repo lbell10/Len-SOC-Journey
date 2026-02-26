@@ -1,12 +1,22 @@
-# Notes
+# Labs
 
-This section contains structured learning notes related to:
+This section contains hands-on security labs performed in my home SOC lab environment.
 
-- SIEM fundamentals
-- Windows Event Logs
-- MITRE ATT&CK framework
-- Detection engineering concepts
-- Threat hunting techniques
-- Networking fundamentals relevant to SOC work
+The purpose of these labs is to simulate real-world attack scenarios and practice:
 
-These notes serve as a growing knowledge base to reinforce technical understanding.
+- Log analysis
+- Incident triage
+- Threat detection
+- Windows event investigation
+- Phishing analysis
+- Basic malware behavior observation
+
+Each lab will include:
+- Objective
+- Environment details
+- Investigation steps
+- Indicators of Compromise (IOCs)
+- MITRE ATT&CK mapping
+- Lessons learned
+
+This section demonstrates practical SOC analyst skills.
