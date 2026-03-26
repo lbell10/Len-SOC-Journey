@@ -45,7 +45,7 @@ Computer: WIN11-CLIENT01
 
 Screenshot of Event Viewer showing multiple failed login attempts:
 
-![Brute Force Detection](Labs/Windows-Brute-Force-Detection /Screenshots/Brute-Force-4625.png)
+![Brute Force Detection](Labs/Windows-Brute-Force-Detection/Screenshots/Brute-Force-4625.png)
 
 ## Conclusion
 Repeated failed authentication attempts can indicate a brute force attack. Monitoring Event ID 4625 in Windows Security logs helps security analysts detect potential credential attacks early.
